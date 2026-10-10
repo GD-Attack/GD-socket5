@@ -1,4 +1,6 @@
 # GD-socket5
+## 开发者：xian xichun
+
 使用ssh的动态端口转发配合ansible来实现批量搭建科学上网代理服务器，来实现科学上网
 如果需要使用导航器执行剧本，那么就是从百度网盘中下载这个ansible-rhel9.iso
 通过网盘分享的文件：ansible-rhel9.iso
